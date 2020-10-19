@@ -1,6 +1,5 @@
-# Curso - Phyton para Visualização e Análise de Dados
+#**Visualização e Análise de Dados sobre Geração Distribuída de Energia no Brasil**
 
->Este trabalho tem como objetivo colocar em prática o conhecimento adquirido por meio desse curso.
+>Este trabalho tem como objetivo colocar em prática o conhecimento adquirido por meio do curso "Python para Visualização e Análise de Dados" ofertado pelo Instituto Metrópole Digital da UFRN (IMD-UFRN).
 ---
 
-## Geração distribuída de energia no Brasil
